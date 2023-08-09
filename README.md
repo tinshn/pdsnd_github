@@ -21,11 +21,11 @@ By calling the programme in terminal you have the possibility to filter for:
 * Weekday
 
 ### Files used
-bikeshare.py
+* bikeshare.py
 _Not included in this repo, but for the project:_
-chicago.csv
-new york city.csv
-washington.csv
+* chicago.csv
+* new york city.csv
+* washington.csv
 
 ### Credits
 [udacity website](www.udacity.com)

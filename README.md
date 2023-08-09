@@ -20,8 +20,9 @@ By calling the programme in terminal you have the possibility to filter for:
 * Month
 * Weekday
 
+
 ### Files used
-* bikeshare.py
+* bikeshare_2.py
 _Not included in this repo, but for the project:_
 * chicago.csv
 * new york city.csv

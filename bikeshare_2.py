@@ -156,6 +156,7 @@ def trip_duration_stats(df):
     print('-'*40)
 
 def convert_sec(time):
+    """Convert seconds into days, hours, minutes, seconds"""
     days = hours = minutes = seconds = 0
 
     days = int(time / 86400) # seconds into days

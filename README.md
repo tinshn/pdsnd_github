@@ -20,9 +20,11 @@ By calling the programme in terminal you have the possibility to filter for:
 * Month
 * Weekday
 
+According to your filters you get some useful analysis data. Just try it out!
 
 ### Files used
 * bikeshare_2.py
+
 _Not included in this repo, but for the project:_
 * chicago.csv
 * new york city.csv
@@ -30,5 +32,7 @@ _Not included in this repo, but for the project:_
 
 ### Credits
 [udacity website](www.udacity.com)
+
 [udacity instagram](www.instagram.com/udacity/)
+
 [udacity twitter](twitter.com/udacity)

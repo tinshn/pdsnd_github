@@ -157,7 +157,7 @@ def trip_duration_stats(df):
 
 def convert_sec(time):
     """Convert seconds into days, hours, minutes"""
-    
+
     days = hours = minutes = seconds = 0
 
     days = int(time / 86400) # seconds into days
@@ -197,9 +197,6 @@ def user_stats(df):
 
     print('\nThis took %s seconds.' % (time.time() - start_time))
     print('-'*40)
-
-def show_raw_data():
-    print()
 
 def main():
     pd.set_option('display.max_colwidth', None)

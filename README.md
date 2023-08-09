@@ -28,5 +28,6 @@ new york city.csv
 washington.csv
 
 ### Credits
-www.udacity.com
-
+[udacity website](www.udacity.com)
+[udacity instagram](www.instagram.com/udacity/)
+[udacity twitter](twitter.com/udacity)
